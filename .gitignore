@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+lichess-bot/venv/
+
+# VSCode settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.txt
+TEMP/
+
+# Ignore PGN and large data files
+*.pgn
