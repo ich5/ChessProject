@@ -16,3 +16,7 @@ TEMP/
 
 # Ignore PGN and large data files
 *.pgn
+
+# IMPORTANT: prevent token from being published
+config.yml
+lichess-bot/config.yml
